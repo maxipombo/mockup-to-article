@@ -6,4 +6,7 @@ You've learned a lot about web development so far. I want you to take a moment t
 
 ---
 
-Your response goes here!
+* My first step into HTML in FEND
+* I think that is very easy because I already know a little bite about HTML.
+* There are some tags that I didn't know like <sup>, <hr>.
+* Research!
